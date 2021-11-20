@@ -1,6 +1,6 @@
 {
   "name": "@theredhead/modeler-shared",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Types shared between frontend and backend",
   "main": "dist/index.js",
   "scripts": {
@@ -23,6 +23,5 @@
     "url": "https://github.com/theredhead/modeler-shared/issues"
   },
   "homepage": "https://github.com/theredhead/modeler-shared#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
