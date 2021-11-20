@@ -1,3 +1,5 @@
+/** @format */
+
 import { DbColumnType } from "./DbColumnType";
 
 export interface PropertyType {
@@ -6,3 +8,5 @@ export interface PropertyType {
   columnType: DbColumnType;
   template: string;
 }
+
+export type PropertyTypeRef = string | PropertyType;
